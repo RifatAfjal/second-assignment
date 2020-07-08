@@ -87,6 +87,10 @@
     background-color: #e6f0f5;
 }
 
+.content-item:hover {
+    background-color: white;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+}
 
 /* online course part */
 .card-footer {
