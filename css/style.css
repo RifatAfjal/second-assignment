@@ -104,13 +104,10 @@
     margin-top: -10px;
 }
 
-/* footer part */
-footer a {
-    color: white;
-}
 
-footer a:hover {
-    color: lightgray;
+/* modal part */
+.modal-footer,.modal-content,.modal-header {
+    border: none;
 }
 
 .submit-btn {
@@ -119,6 +116,11 @@ footer a:hover {
     border: 2px solid black;
 }
 
-.modal-footer,.modal-content,.modal-header {
-    border: none;
+/* footer part */
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: lightgray;
 }
